@@ -1,1 +1,1 @@
-MQ
+Nesta rotina foi implementado o método de mínimos quadrados nos dados encontrados pelo SysIdentPy, a fim de determinar os parâmetros de um SISO (uma entrada e uma saída).
